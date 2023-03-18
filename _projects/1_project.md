@@ -10,7 +10,7 @@ category: productivity
 
 My brother and I were using to-do list apps that were not working for us as well as we wanted.  So we decided to build one.  We are now both using JadeTasks instead of our previous apps.  It's not done - there are still features we need for ourselves.
 
-Here's a few points about our task management philosophy, so you can decide if it sounds like a good fit for you.  We categorize tasks first based on urgency and importance: low, medium, high.  The purpose of JadeTasks is to help us accomplish not only the urgent tasks but also the myriad of tasks that are important to us but that do not have specific deadlines or urgency.  We're able to accomplish this somewhat with the current version, but it's a work in progress, and expect the interface to change quite a bit over the next few months at least.
+Here are a few points about our task management philosophy, so you can decide if it sounds like a good fit for you.  We categorize tasks first based on urgency and importance: low, medium, high.  The purpose of JadeTasks is to help us accomplish not only the urgent tasks but also the myriad of tasks that are important to us but that do not have specific deadlines or urgency.  We're able to accomplish this somewhat with the current version, but it's a work in progress, and expect the interface to change quite a bit over the next few months at least.
 
 We know there are plentiful to-do list apps available already with satisfied customers.  But if you're not one of them, please install JadeTasks.  Give it a try: offer suggestions, request features, complain about bugs.  Help us make it as useful for you as it is for us.  We will be listening.
 
