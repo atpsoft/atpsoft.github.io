@@ -19,7 +19,7 @@ Our company name comes from the phrase "All Things are Possible".  Ok, maybe tha
 
 Our name is also inspired by the <a href="https://biologydictionary.net/atp/">ATP molecule</a>.<br />
 
-We are a small development shop started by two brothers.  We are longtime software developers, but relatively new to our latest area of focus: mobile app development.  We like to build quality software that is both easy to use and highly customizable - a combination that can be challenging to pull off.
+We are a small development shop started by two brothers.  We are lifelong software developers, but relatively new to our latest area of focus: mobile app development.  We like to build quality software that is both easy to use and highly customizable - a combination that can be challenging to pull off.
 
 Our first app is a todo list app for iOS: <a href="http://jadetasks.com">Jade Tasks</a>.  It's a labor of love that we use ourselves every day.
 
