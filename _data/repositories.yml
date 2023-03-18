@@ -4,4 +4,8 @@ github_users:
 
 github_repos:
   - atpsoft/JadeTasksFeedback
-  - twbs/bootstrap
+  - atpsoft/RealmBinaries
+  - atpsoft/dohvscode
+  - atpsoft/sqlstmt
+  - atpsoft/dohtest
+  - atpsoft/dohutil
