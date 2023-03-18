@@ -2,11 +2,13 @@
 layout: page
 permalink: /contact/
 title: contact
-description: Listed below is the ways to contact us.
+description: We would love to hear from you!
 nav: true
 nav_order: 4
 ---
 
+Feature requests, bug reports, or anything (polite) you want to discuss is welcome!  We are motivated to build quality apps that are flexible enough to meet a wide range of needs, and hearing what *you* need will help us accomplish that.
 
-The best way to submit feature requests or bug fixes is through the Github repo.  This is listed on the repository page as atpsoft/JadeTasksFeedback or you can click here: <a href="https://github.com/atpsoft/JadeTasksFeedback">Jade Tasks Feedback.</a>
+Please <a href="https://github.com/atpsoft/JadeTasksFeedback/issues">click here</a> and then click on the green "New issue" button to start the discussion.  If you don't have a github account, you will need to create one.
 
+We know this may not be the preferred method for some, so we will also be adding a help tab that will let you submit feedback directly within each app.
