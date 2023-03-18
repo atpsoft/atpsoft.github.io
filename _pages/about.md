@@ -21,7 +21,7 @@ Our name is also inspired by the <a href="https://biologydictionary.net/atp/">AT
 
 We are a small development shop started by two brothers.  We are lifelong software developers, but relatively new to our latest area of focus: mobile app development.  We like to build quality software that is both easy to use and highly customizable - a combination that can be challenging to pull off.
 
-Our first app is a todo list app for iOS: <a href="http://jadetasks.com">Jade Tasks</a>.  It's a labor of love that we use ourselves every day.
+Our first app is a to-do list app for iOS: <a href="http://jadetasks.com">Jade Tasks</a>.  It's a labor of love that we use ourselves every day.
 
 <!--
 No Test [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
