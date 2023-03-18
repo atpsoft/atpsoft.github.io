@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here is a list of our current projects found on the apple store for IOS.
+description: These are available on the iOS app store.
 nav: true
 nav_order: 2
-display_categories: [learning, productivity]
+display_categories: [productivity, learning]
 horizontal: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Jade arithmetic
-description: An amazing piece of software to help learning math!
+title: Jade Arithmetic
+description: simple math practice
 img: assets/img/jade-arithmetic.jpg
-importance: 2
+importance: 1
 category: learning
 ---
 
@@ -16,9 +16,6 @@ We designed and built it for our kids, and hope that many others will use it. It
 
 
 We are just getting started, and have many new features planned. Please let us know what would be useful to your family, school, or homeschool group.
-
-
-Have a splendiferous day!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

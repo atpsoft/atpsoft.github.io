@@ -11,4 +11,4 @@ Feature requests, bug reports, or anything (polite) you want to discuss is welco
 
 Please <a href="https://github.com/atpsoft/JadeTasksFeedback/issues">click here</a> and then click on the green "New issue" button to start the discussion.  If you don't have a github account, you will need to create one.
 
-We know this may not be the preferred method for some, so we will also be adding a help tab that will let you submit feedback directly within each app.
+We know this will not be a great method for everyone, so we will also be adding a help tab that will let you submit feedback directly within each app.

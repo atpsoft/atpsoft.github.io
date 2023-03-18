@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'Our philosophy is that All Things are Possible -- codewise at least.'
+subtitle:
 profile:
   align: right
   image: atplogo.png
@@ -15,9 +15,13 @@ social: false
 published: true
 ---
 
-Our name is also inspired by the <a href="https://en.wikipedia.org/wiki/Adenosine_triphosphate">ATP molecule</a>.<br />
+Our company name comes from the phrase "All Things are Possible".  Ok, maybe that's hyperbole, but... what can we say, we love a challenge.
 
-We are a small development shop started by two brothers that were tired of dealing with software that was good but incomplete. Our goal in everything we do is to make software that is both usable and extremely functional. We started with a task management software (Jade tasks) that we are working towards making the most usable and functional task management software ever. Give us time and we will change the way you task!
+Our name is also inspired by the <a href="https://biologydictionary.net/atp/">ATP molecule</a>.<br />
+
+We are a small development shop started by two brothers.  We are longtime software developers, but relatively new to our latest area of focus: mobile app development.  We like to build quality software that is both easy to use and highly customizable - a combination that can be challenging to pull off.
+
+Our first app is a todo list app for iOS: <a href="http://jadetasks.com">Jade Tasks</a>.  It's a labor of love that we use ourselves every day.
 
 <!--
 No Test [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

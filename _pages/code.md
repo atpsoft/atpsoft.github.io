@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: This is a list of our public repositories.
+permalink: /code/
+title: code
+description: our public source code
 nav: true
 nav_order: 3
 ---
